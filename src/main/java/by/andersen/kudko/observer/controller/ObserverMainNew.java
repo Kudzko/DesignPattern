@@ -1,9 +1,9 @@
 package by.andersen.kudko.observer.controller;
 
 
-import by.andersen.kudko.modernmodel.CurrentConditionsDisplayNew;
-import by.andersen.kudko.modernmodel.ForecastDisplay;
-import by.andersen.kudko.modernmodel.WeatherDataNew;
+import by.andersen.kudko.observer.modernmodel.CurrentConditionsDisplayNew;
+import by.andersen.kudko.observer.modernmodel.ForecastDisplay;
+import by.andersen.kudko.observer.modernmodel.WeatherDataNew;
 
 public class ObserverMainNew {
     public static void main(String[] args) {

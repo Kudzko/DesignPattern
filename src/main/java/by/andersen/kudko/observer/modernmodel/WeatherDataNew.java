@@ -1,8 +1,5 @@
-package by.andersen.kudko.modernmodel;
+package by.andersen.kudko.observer.modernmodel;
 
-import by.andersen.kudko.observer.model.Observer;
-
-import java.util.ArrayList;
 import java.util.Observable;
 
 public class WeatherDataNew extends Observable {

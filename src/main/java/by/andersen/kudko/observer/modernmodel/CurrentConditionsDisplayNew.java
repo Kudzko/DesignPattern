@@ -1,9 +1,6 @@
-package by.andersen.kudko.modernmodel;
+package by.andersen.kudko.observer.modernmodel;
 
 import by.andersen.kudko.observer.model.DisplayElement;
-
-import by.andersen.kudko.observer.model.Subject;
-import by.andersen.kudko.observer.model.implementation.WeatherData;
 
 import java.util.Observable;
 import java.util.Observer;

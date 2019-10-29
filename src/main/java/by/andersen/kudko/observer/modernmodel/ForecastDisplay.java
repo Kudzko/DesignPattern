@@ -1,4 +1,4 @@
-package by.andersen.kudko.modernmodel;
+package by.andersen.kudko.observer.modernmodel;
 
 import by.andersen.kudko.observer.model.DisplayElement;
 
